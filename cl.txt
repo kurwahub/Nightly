@@ -2,4 +2,5 @@ ChangeLog:
 [+] Added version checker
 [+] Removed not needed stuff
 [+] Added colors
+[+] Added changelog command
 [-] Removed gethwid command
