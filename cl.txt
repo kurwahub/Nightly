@@ -1,0 +1,5 @@
+ChangeLog:
+[+] Added version checker
+[+] Removed not needed stuff
+[+] Added colors
+[-] Removed gethwid command
