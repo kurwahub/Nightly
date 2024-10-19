@@ -13,3 +13,4 @@ cd Downloads && cd Nightly && pip install requests && pip install colorama && pi
 ```
 # Preview
 ![pr1](https://github.com/kurwahub/Nightly/blob/main/IMG_20241019_132935.jpg?raw=true)
+![pr2](https://github.com/kurwahub/Nightly/blob/main/IMG_20241019_132947.jpg?raw=true)
