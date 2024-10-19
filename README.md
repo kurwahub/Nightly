@@ -11,3 +11,5 @@ python Nightly.py
 ```
 cd Downloads && cd Nightly && pip install requests && pip install colorama && pip install termcolor && python Nightly.py
 ```
+# Preview
+![pr1](https://github.com/kurwahub/Nightly/blob/main/IMG_20241019_132935.jpg?raw=true)
