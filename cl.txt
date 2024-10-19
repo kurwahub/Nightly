@@ -4,3 +4,4 @@ ChangeLog:
 [+] Added colors
 [+] Added changelog command
 [-] Removed gethwid command
+[-] Removed vip command
